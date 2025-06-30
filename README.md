@@ -1,4 +1,5 @@
 <img align="right" width="300" src="https://cdn.marecotec.com/lander/DODAT_sml.png" alt="DODAT logo, depicting a coral inside a wave and a chart along with the DODAT text and the words Davies lab Oceanographic Data Analysis Tools">
+
 # DODAT
 ## Davies lab Oceanographic Data Analysis Tools
 #### A series of tools written in R that can be used for working with ocean data.
