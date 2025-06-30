@@ -1,6 +1,6 @@
+#### DoDAT - Davies lab Oceanographic Data Analysis Tools
 <img align="right" width="300" src="https://cdn.marecotec.com/lander/DODAT_sml.png" alt="DODAT logo, depicting a coral inside a wave and a chart along with the DODAT text and the words Davies lab Oceanographic Data Analysis Tools">
 
-#### DoDAT - Davies lab Oceanographic Data Analysis Tools
 ##### A series of tools written in R that can be used for working with ocean data.
 
 These various scripts underpin much of the research we've done into the distribution and niches of marine species. The scripts include working with physical oceanographic and geological data, as well as scripts to process data offloaded from our lander platforms. All tools are released under the MIT License.
